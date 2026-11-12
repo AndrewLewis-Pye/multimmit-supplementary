@@ -12,6 +12,6 @@ Contents:
   (support certificates, sequential view traversal, erasure-coded
   exact-QC recovery), complete proofs, the transfer of the paper's
   results, and the per-view cost accounting.
-- `communication-supplement.tex` — LaTeX source of the above.
+  
 
 
