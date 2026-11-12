@@ -1,11 +1,9 @@
-# Multimmit extended version and supplementary materials (anonymous submission)
+# Multimmit full version and supplementary materials 
 
-Referee-facing supplementary material for the submission
-*Multimmit: faster finality for ordering and payments*.
 
 Contents:
 
-- Extended version of paper. 
+- Full (anonymised) version of paper. 
 
 - `communication-supplement.pdf` — *A cubic-communication variant of
   Multimmit*: the dissemination variant referenced in the paper's
@@ -16,4 +14,4 @@ Contents:
   results, and the per-view cost accounting.
 - `communication-supplement.tex` — LaTeX source of the above.
 
-Contents are anonymised throughout.
+
